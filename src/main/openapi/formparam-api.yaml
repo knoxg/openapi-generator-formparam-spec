@@ -22,10 +22,8 @@ paths:
               properties:
                 username:
                   type: "string"
-                  description: "the username."
                 password:
                   type: "string"
-                  description: "the password."
       responses:
         "200":
           description: "authentication response"
